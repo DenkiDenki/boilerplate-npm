@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Denisa Gerez - denki",
   "description": "This is a practice project on package management with NPM",
+  "keywords": [
+    "practice",
+    "project",
+    "npm"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -11,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://idontknow/todo.git"
+    "url": "https://github.com/DenkiDenki/boilerplate-npm.git"
   }
 }

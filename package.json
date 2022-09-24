@@ -5,7 +5,8 @@
   "keywords": [
     "practice",
     "project",
-    "npm"
+    "npm",
+    "freecodecamp"
   ],
   "dependencies": {
     "express": "^4.14.0"

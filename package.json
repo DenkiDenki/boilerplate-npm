@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Denisa Gerez - denki",
+  "description": "This is a practice project on package management with NPM",
   "dependencies": {
     "express": "^4.14.0"
   },
